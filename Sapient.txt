@@ -1,2 +1,3 @@
 This is second edition
-Second line
+Second line.
+third line
